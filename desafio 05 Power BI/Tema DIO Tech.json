@@ -1,0 +1,190 @@
+﻿{
+  "name": "Tema ALLOSTECH",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontFamily": "Arial"
+          }
+        ],
+        "background": [
+          {
+            "transparency": 100,
+            "color": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            }
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "visualHeader": [
+          {
+            "foreground": {
+              "solid": {
+                "color": "#585397"
+              }
+            },
+            "transparency": 0,
+            "background": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            }
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            },
+            "checkboxAndApplyColor": {
+              "solid": {
+                "color": "#585397"
+              }
+            },
+            "foregroundColor": {
+              "solid": {
+                "color": "#12134B"
+              }
+            },
+            "headerSize": 9
+          }
+        ],
+        "filterCard": [
+          {
+            "$id": "Available",
+            "foregroundColor": {
+              "solid": {
+                "color": "#12134B"
+              }
+            },
+            "backgroundColor": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            },
+            "transparency": 0
+          },
+          {
+            "$id": "Applied",
+            "backgroundColor": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            },
+            "foregroundColor": {
+              "solid": {
+                "color": "#12134B"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "visualTooltip": [
+          {
+            "background": {
+              "solid": {
+                "color": "#585397"
+              }
+            }
+          }
+        ],
+        "visualHeaderTooltip": [
+          {
+            "background": {
+              "solid": {
+                "color": "#585397"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F1F5F9"
+              }
+            },
+            "transparency": 100
+          }
+        ],
+        "outspace": [
+          {
+            "transparency": 100,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "lineStackedColumnComboChart": {
+      "*": {}
+    },
+    "lineClusteredColumnComboChart": {
+      "*": {}
+    },
+    "areaChart": {
+      "*": {}
+    },
+    "lineChart": {
+      "*": {}
+    },
+    "stackedAreaChart": {
+      "*": {}
+    }
+  },
+  "foreground": "#313131",
+  "dataColors": [
+    "#12134B",
+    "#585397",
+    "#8766AC",
+    "#00909A",
+    "#00A88E",
+    "#41BA7C",
+    "#CCC5BC",
+    "#E5DED4"
+  ],
+  "bad": "#CD5151",
+  "neutral": "#EDA754",
+  "good": "#6CC680",
+  "minimum": "#CAC9E1",
+  "center": "#585397",
+  "maximum": "#383468",
+  "foregroundNeutralSecondary": "#7E7E7E",
+  "backgroundLight": "#4C4C4C",
+  "foregroundNeutralTertiary": "#3F3F3F",
+  "background": "#FFFFFF",
+  "textClasses": {
+    "title": {
+      "color": "#12134B",
+      "fontSize": 10,
+      "fontFace": "'Segoe UI Semibold', wf_segoe-ui_semibold, helvetica, arial, sans-serif"
+    },
+    "callout": {
+      "fontSize": 18,
+      "fontFace": "'Segoe UI Semibold', wf_segoe-ui_semibold, helvetica, arial, sans-serif",
+      "color": "#12134B"
+    },
+    "label": {
+      "color": "#12134B"
+    },
+    "header": {
+      "color": "#12134B"
+    }
+  }
+}
